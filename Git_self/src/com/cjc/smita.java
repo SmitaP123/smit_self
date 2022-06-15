@@ -6,6 +6,11 @@ public class smita
 	{
 		System.out.println("-----GIT_Proccess--");
 	}
+	public void m2()
+	{
+		System.out.println("-----GIT_Proccess--");
+	}
+	
 	
 		public static void main(String[] args)
 		{
